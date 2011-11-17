@@ -17,7 +17,8 @@
         "url" : "http://substack.net"
     },
     "dependencies" : {
-        "binary" : ">=0.0.6"
+        "binary" : ">=0.0.6",
+        "put" : ">=0.0.5 <0.1"
     },
     "license" : "MIT/X11",
     "engine" : ["node >=0.2.0"]
